@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.14)  19 APR 2018 00:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.14)  19 APR 2018 00:26
 entering extended mode
 **./Ujwal_Resume.tex
 (Ujwal_Resume.tex
@@ -85,6 +85,14 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \WF@box=\box26
 \WF@everypar=\toks16
 Package: wrapfig 2003/01/31  v 3.6
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.s
+ty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip43
+\enit@outerparindent=\dimen115
+\enit@toks=\toks17
+\enit@inbox=\box27
+\enitdp@description=\count91
 ) (Ujwal_Resume.aux)
 \openout1 = `Ujwal_Resume.aux'.
 
@@ -137,17 +145,17 @@ LaTeX Font Info:    ... okay on input line 8.
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count91
-\scratchdimen=\dimen115
-\scratchbox=\box27
-\nofMPsegments=\count92
-\nofMParguments=\count93
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count94
-\MPscratchDim=\dimen116
-\MPnumerator=\count95
-\makeMPintoPDFobject=\count96
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count92
+\scratchdimen=\dimen116
+\scratchbox=\box28
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen117
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks19
 )
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-bas
 e.sty"
@@ -236,23 +244,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--29
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
 [1
 
 {C:/Users/HP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./my photo.jpg
 >] (Ujwal_Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1982 strings out of 493305
- 29481 string characters out of 3131107
- 90189 words of memory out of 3000000
- 5529 multiletter control sequences out of 15000+200000
- 6985 words of font info for 25 fonts, out of 3000000 for 9000
+ 2265 strings out of 493305
+ 34290 string characters out of 3131107
+ 96291 words of memory out of 3000000
+ 5807 multiletter control sequences out of 15000+200000
+ 7590 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,32p,281b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,32p,319b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
 e1/public/amsfonts/cm/cmbx12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HP/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Ujwal_Resume.pdf (1 page, 84375 bytes).
+Output written on Ujwal_Resume.pdf (1 page, 88530 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

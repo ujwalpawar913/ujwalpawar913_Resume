@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.14)  19 APR 2018 00:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.14)  19 APR 2018 00:20
 entering extended mode
 **./Ujwal_Resume.tex
 (Ujwal_Resume.tex
@@ -54,21 +54,52 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks15
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
-")) (Ujwal_Resume.aux)
+"))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics
+.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.d
+ef"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen113
+\WF@size=\dimen114
+\c@WF@wrappedlines=\count90
+\WF@box=\box26
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+) (Ujwal_Resume.aux)
 \openout1 = `Ujwal_Resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -104,36 +135,126 @@ LaTeX Font Info:    ... okay on input line 4.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 15.
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen115
+\scratchbox=\box27
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen116
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks18
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-bas
+e.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--20
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.
+sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefineke
+ys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.st
+y"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.st
+y"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.
+sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.s
+ty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.s
+ty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds
+.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 16.
+
+<"my photo".jpg, id=1, 777.90625pt x 1084.05pt>
+File: "my photo".jpg Graphic file (type jpg)
+<use "my photo".jpg>
+Package pdftex.def Info: "my photo".jpg  used on input line 18.
+(pdftex.def)             Requested size: 54.459pt x 75.89125pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 24.
+
+Overfull \hbox (123.81099pt too wide) in paragraph at lines 21--29
+[][] 
+ []
+
+
+Overfull \hbox (123.81099pt too wide) in paragraph at lines 21--29
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--29
 
  []
 
 [1
 
-{C:/Users/HP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(Ujwal_Resume.aux) ) 
+{C:/Users/HP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./my photo.jpg
+>] (Ujwal_Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 746 strings out of 493305
- 10669 string characters out of 3131107
- 68989 words of memory out of 3000000
- 4353 multiletter control sequences out of 15000+200000
+ 1982 strings out of 493305
+ 29481 string characters out of 3131107
+ 90189 words of memory out of 3000000
+ 5529 multiletter control sequences out of 15000+200000
  6985 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,4n,32p,143b,135s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HP/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Ujwal_Resume.pdf (1 page, 36062 bytes).
+ 41i,6n,32p,281b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HP/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Ujwal_Resume.pdf (1 page, 84375 bytes).
 PDF statistics:
- 18 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.14)  19 APR 2018 01:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.14)  19 APR 2018 01:20
 entering extended mode
 **./Ujwal_Resume.tex
 (Ujwal_Resume.tex
@@ -85,22 +85,22 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \WF@box=\box26
 \WF@everypar=\toks16
 Package: wrapfig 2003/01/31  v 3.6
-) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.s
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.s
 ty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip43
+\multirow@cntb=\count91
+\multirow@dima=\skip44
+\bigstrutjot=\dimen115
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip43
-\enit@outerparindent=\dimen115
+\labelindent=\skip45
+\enit@outerparindent=\dimen116
 \enit@toks=\toks17
 \enit@inbox=\box27
-\enitdp@description=\count91
-)
-("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.sty
-"
-Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
-\multirow@colwidth=\skip44
-\multirow@cntb=\count92
-\multirow@dima=\skip45
-\bigstrutjot=\dimen116
+\enitdp@description=\count92
 ) (Ujwal_Resume.aux)
 \openout1 = `Ujwal_Resume.aux'.
 
@@ -222,43 +222,39 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-
-Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
-put line 17.
-
 <"my photo".jpg, id=1, 777.90625pt x 1084.05pt>
 File: "my photo".jpg Graphic file (type jpg)
 <use "my photo".jpg>
-Package pdftex.def Info: "my photo".jpg  used on input line 19.
-(pdftex.def)             Requested size: 54.459pt x 75.89125pt.
+Package pdftex.def Info: "my photo".jpg  used on input line 20.
+(pdftex.def)             Requested size: 62.23376pt x 86.72577pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 25.
+(Font)              <10.95> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 25.
+(Font)              <8> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 25.
+(Font)              <6> on input line 26.
 
-Overfull \hbox (123.81099pt too wide) in paragraph at lines 22--30
+Overfull \hbox (123.81099pt too wide) in paragraph at lines 23--31
 [][] 
  []
 
 
-Overfull \hbox (123.81099pt too wide) in paragraph at lines 22--30
+Overfull \hbox (123.81099pt too wide) in paragraph at lines 23--31
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--30
+Underfull \hbox (badness 10000) in paragraph at lines 23--31
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
 
-Overfull \hbox (9.0461pt too wide) in paragraph at lines 38--48
+Overfull \hbox (9.0461pt too wide) in paragraph at lines 42--52
 []  
  []
 
@@ -338,11 +334,11 @@ Missing character: There is no ™ in font cmr10!
 Here is how much of TeX's memory you used:
  2327 strings out of 493305
  35284 string characters out of 3131107
- 102807 words of memory out of 3000000
+ 101807 words of memory out of 3000000
  5864 multiletter control sequences out of 15000+200000
  7937 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,32p,335b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,32p,336b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmbx12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HP/AppData/Local/Program
@@ -351,7 +347,7 @@ l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/HP/App
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
 ers/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.
 pfb>
-Output written on Ujwal_Resume.pdf (3 pages, 130834 bytes).
+Output written on Ujwal_Resume.pdf (3 pages, 130829 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
